@@ -1,8 +1,8 @@
 print('hello world')
 
 for i in range(1,11):
-    if i == 5:
+    if i == 4:
         continue
-    elif i==7:
+    elif i==9:
         continue
     print(i)
