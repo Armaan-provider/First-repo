@@ -1,0 +1,1 @@
+This file is used to make a user manual of the specific application and it is very usefull for other programmers also.
